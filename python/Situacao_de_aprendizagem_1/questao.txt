@@ -1,0 +1,20 @@
+Você é o desenvolvedor de uma empresa de marketing digital, foi te atribuído uma tarefa de “minerar” 
+dados de um arquivo com 1000 registros.
+Você precisa fazer um relatório que exiba na tela as informações conforme forem sendo pedidas pelo usuário.
+
+O gerente pediu para você:
+A quantidade de pessoas maiores de 50 anos;
+A quantidade de pessoas que ganham mais de R$ 2000 e a porcentagem; que isso representa do todo;
+O nome, salário, idade e profissão das 3 pessoas com maiores salários;
+A média salarial de cada profissão;
+O  intervalo da maioria das idades e o sexo de quem ganha mais de R$ 2000.
+(M 39-50, F 29-30)
+
+Resultados
+Arquivos random_data.py, funcoes.py, main.py
+Funções que possibilitem o máximo de reuso de código
+Menu para exibir opções
+Uso de boas práticas do python com pep8
+Todos os arquivos deverão estar zipados com o nome seu_nome_revisao2023_2ba-23.zip.
+O aluno só obterá o ponto cheio caso atinja todas as expectativas solicitadas entregue até o dia 05-03-2024.
+A entrega em data posterior só poderá ser feita pelo aluno que não compareceu mediante justificativa. 

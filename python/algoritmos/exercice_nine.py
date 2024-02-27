@@ -8,6 +8,3 @@ if select < counter and select > counter:
 elif select >= counter and select <= counter:
     del carros[select]
 print(carros)
-
-
-
